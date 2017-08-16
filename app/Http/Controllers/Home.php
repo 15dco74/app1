@@ -16,6 +16,7 @@ public function Home1()
 	}
 	public function Home2()
 	{
+		
 		return view("first");
 	}
 	public function Register()
